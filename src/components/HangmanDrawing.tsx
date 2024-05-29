@@ -62,7 +62,7 @@ function HangmanDrawing({ numGuesses }: Props) {
       <div className="h-2 md:h-5 w-40 md:w-72 bg-black ml-20 md:ml-36" />
 
       {/* main vertical stand */}
-      <div className="h-72 md:h-96 w-2 md:w-5 bg-black ml-20 md:ml-36" />
+      <div className="h-72 md:h-80 w-2 md:w-5 bg-black ml-20 md:ml-36" />
 
       {/* bottom bar for drawing */}
       <div className="h-2 md:h-5 w-40 md:w-72 bg-black" />
