@@ -24,7 +24,7 @@
 ## Installation
 Make sure you have Node.js and npm installed on your system.
 
-1. Clone this repository: `git clone https://github.com/tiesha93/hangman.com`
+1. Clone this repository: `git clone https://github.com/Tiesha93/hangman`
 2. Navigate to the project directory: `cd hangman`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
